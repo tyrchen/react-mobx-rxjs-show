@@ -1,0 +1,1 @@
+import InstantSearch from './InstantSearch'
